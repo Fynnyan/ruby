@@ -1,3 +1,3 @@
+#!/usr/bin/ruby
 
-puts "hello Gems!"
-puts "Hallo Kati"
+puts "Here be dragons"

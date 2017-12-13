@@ -1,11 +1,10 @@
 #!/usr/bin/ruby
 
-# stuff
 number1 = 1
-number2 = 1000
+number2 = 10
 check = false
 
-puts "Hello to the quiz\n\n"
+puts "\n--- Hello to the quiz ---\n\n"
 
 answer = rand(number2)
 puts "please enter a number between #{number1} and #{number2}"
